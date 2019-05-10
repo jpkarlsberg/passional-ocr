@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000018.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P17" PHYSICAL_IMG_NR="17" HEIGHT="5115" WIDTH="3771" ACCURACY="0.2566005" QUALITY_DETAIL="26 words, 145 chars, 13 with recognition greater than 50% (8.97%)">
+      <TopMargin ID="P17_TM00001" HPOS="0" VPOS="0" WIDTH="3771" HEIGHT="505" />
+      <LeftMargin ID="P17_LM00001" HPOS="0" VPOS="505" WIDTH="1107" HEIGHT="3592" />
+      <RightMargin ID="P17_RM00001" HPOS="3451" VPOS="505" WIDTH="319" HEIGHT="3592" />
+      <BottomMargin ID="P17_BM00001" HPOS="0" VPOS="4098" WIDTH="3771" HEIGHT="1017" />
+      <PrintSpace ID="P17_PS00001" HPOS="1107" VPOS="505" WIDTH="2344" HEIGHT="3592">
+        <TextBlock ID="P17_TB00001" HPOS="1519" VPOS="507" WIDTH="1425" HEIGHT="231">
+          <TextLine ID="P17_TL00001" HPOS="1531" VPOS="522" WIDTH="1402" HEIGHT="204">
+            <String ID="P17_S00001" HPOS="1531" VPOS="523" WIDTH="643" HEIGHT="196" STYLEREFS="StyleId-0" CONTENT="Passional Christi" WC="0.164545462" CC="8810866888107" />
+            <SP ID="P17_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00002" HPOS="2673" VPOS="531" WIDTH="261" HEIGHT="189" STYLEREFS="StyleId-0" CONTENT="und" WC="0.2175" CC="9777" />
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="P17_ILL00001" HPOS="1105" VPOS="796" WIDTH="2248" HEIGHT="2776" />
+        <TextBlock ID="P17_TB00002" HPOS="1095" VPOS="3625" WIDTH="2356" HEIGHT="472">
+          <TextLine ID="P17_TL00002" HPOS="1113" VPOS="3723" WIDTH="2325" HEIGHT="135">
+            <String ID="P17_S00003" HPOS="1113" VPOS="3756" WIDTH="109" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="Ich" WC="0.475" CC="28" />
+            <SP ID="P17_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00004" HPOS="1225" VPOS="3754" WIDTH="54" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="" WC="0.23" CC="7" />
+            <SP ID="P17_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00005" HPOS="1303" VPOS="3751" WIDTH="172" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="müß" WC="0.246" CC="66788" />
+            <SP ID="P17_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00006" HPOS="1497" VPOS="3747" WIDTH="184" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="auch" WC="0.32" CC="88010" />
+            <SP ID="P17_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00007" HPOS="1711" VPOS="3747" WIDTH="259" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="andern" WC="0.19375" CC="77978887" />
+            <SP ID="P17_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00008" HPOS="1992" VPOS="3744" WIDTH="198" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="stetenn" WC="0.278333336" CC="477778" />
+            <SP ID="P17_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00009" HPOS="2224" VPOS="3744" WIDTH="310" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="predigen" WC="0.337777764" CC="780748877" />
+            <SP ID="P17_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00010" HPOS="2554" VPOS="3738" WIDTH="142" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="das" WC="0.09" CC="1088" />
+            <SP ID="P17_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00011" HPOS="2721" VPOS="3736" WIDTH="198" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="reych" WC="0.374" CC="58808" />
+            <SP ID="P17_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00012" HPOS="2940" VPOS="3732" WIDTH="498" HEIGHT="118" STYLEREFS="StyleId-0" CONTENT="gots / danich" WC="0.183333337" CC="878888777888" />
+          </TextLine>
+          <TextLine ID="P17_TL00003" HPOS="1113" VPOS="3826" WIDTH="2323" HEIGHT="136">
+            <String ID="P17_S00013" HPOS="1113" VPOS="3879" WIDTH="153" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="von" WC="0.166666672" CC="7710" />
+            <SP ID="P17_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00014" HPOS="1287" VPOS="3858" WIDTH="126" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="deß" WC="0.216666669" CC="787" />
+            <SP ID="P17_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00015" HPOS="1434" VPOS="3870" WIDTH="237" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="wegen" WC="0.271666676" CC="487877" />
+            <SP ID="P17_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00016" HPOS="1689" VPOS="3853" WIDTH="286" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="gesandt" WC="0.284285724" CC="8888808" />
+            <SP ID="P17_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00017" HPOS="1995" VPOS="3850" WIDTH="142" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="byn" WC="0.2575" CC="7777" />
+            <SP ID="P17_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00018" HPOS="2157" VPOS="3864" WIDTH="25" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="/" WC="0.4" CC="6" />
+            <SP ID="P17_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00019" HPOS="2208" VPOS="3861" WIDTH="154" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="und" WC="0.156666666" CC="6810" />
+            <SP ID="P17_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00020" HPOS="2382" VPOS="3844" WIDTH="148" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="hab" WC="0.0933333337" CC="1088" />
+            <SP ID="P17_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00021" HPOS="2547" VPOS="3840" WIDTH="354" HEIGHT="115" STYLEREFS="StyleId-0" CONTENT="gepredigt" WC="0.287777781" CC="777781877" />
+            <SP ID="P17_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00022" HPOS="2934" VPOS="3844" WIDTH="73" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="in" WC="0.28" CC="77" />
+            <SP ID="P17_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00023" HPOS="3040" VPOS="3841" WIDTH="130" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="den" WC="0.446666658" CC="177" />
+            <SP ID="P17_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00024" HPOS="3187" VPOS="3835" WIDTH="249" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="Sina-" WC="0.08" CC="881010" />
+          </TextLine>
+          <TextLine ID="P17_TL00004" HPOS="1105" VPOS="3927" WIDTH="1194" HEIGHT="154">
+            <String ID="P17_S00025" HPOS="1105" VPOS="3928" WIDTH="861" HEIGHT="148" STYLEREFS="StyleId-0" CONTENT="gogen durch Galileam" WC="0.213" CC="7788781088810878088777" />
+            <SP ID="P17_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P17_S00026" HPOS="1993" VPOS="3952" WIDTH="306" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="Lucc. 4." WC="0.407142848" CC="8288660" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

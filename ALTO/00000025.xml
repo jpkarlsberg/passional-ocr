@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000025.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P24" PHYSICAL_IMG_NR="24" HEIGHT="5100" WIDTH="3750" ACCURACY="0.214747936" QUALITY_DETAIL="30 words, 215 chars, 12 with recognition greater than 50% (5.58%)">
+      <TopMargin ID="P24_TM00001" HPOS="0" VPOS="0" WIDTH="3750" HEIGHT="363" />
+      <LeftMargin ID="P24_LM00001" HPOS="0" VPOS="363" WIDTH="432" HEIGHT="3837" />
+      <RightMargin ID="P24_RM00001" HPOS="2820" VPOS="363" WIDTH="930" HEIGHT="3837" />
+      <BottomMargin ID="P24_BM00001" HPOS="0" VPOS="4200" WIDTH="3750" HEIGHT="900" />
+      <PrintSpace ID="P24_PS00001" HPOS="432" VPOS="363" WIDTH="2388" HEIGHT="3837">
+        <Illustration ID="P24_ILL00001" HPOS="552" VPOS="673" WIDTH="2214" HEIGHT="2820" />
+        <TextBlock ID="P24_TB00001" HPOS="1296" VPOS="363" WIDTH="789" HEIGHT="264" />
+        <TextBlock ID="P24_TB00002" HPOS="432" VPOS="3525" WIDTH="2388" HEIGHT="675">
+          <TextLine ID="P24_TL00001" HPOS="1413" VPOS="3561" WIDTH="475" HEIGHT="100">
+            <String ID="P24_S00001" HPOS="1413" VPOS="3561" WIDTH="475" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="Antichristus" WC="0.2723077" CC="9787773676777" />
+          </TextLine>
+          <TextLine ID="P24_TL00002" HPOS="525" VPOS="3660" WIDTH="2283" HEIGHT="112">
+            <String ID="P24_S00002" HPOS="525" VPOS="3669" WIDTH="241" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="Keyn" WC="0.245" CC="4107107775" />
+            <SP ID="P24_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00003" HPOS="784" VPOS="3664" WIDTH="510" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="Bischoff sall" WC="0.225" CC="7787798767106" />
+            <SP ID="P24_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00004" HPOS="1312" VPOS="3663" WIDTH="181" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="auff" WC="0.11" CC="88810" />
+            <SP ID="P24_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00005" HPOS="1495" VPOS="3675" WIDTH="376" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="eyn gering" WC="0.17" CC="8888788888" />
+            <SP ID="P24_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00006" HPOS="1890" VPOS="3660" WIDTH="387" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="und kleyne" WC="0.23888889" CC="767777797" />
+            <SP ID="P24_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00007" HPOS="2293" VPOS="3660" WIDTH="186" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="stade" WC="0.225" CC="679777" />
+            <SP ID="P24_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00008" HPOS="2502" VPOS="3672" WIDTH="306" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="geweyet" WC="0.16" CC="8877108" />
+          </TextLine>
+          <TextLine ID="P24_TL00003" HPOS="471" VPOS="3768" WIDTH="1986" HEIGHT="109">
+            <String ID="P24_S00009" HPOS="471" VPOS="3787" WIDTH="630" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="werden / sondern" WC="0.214" CC="498887778888867" />
+            <SP ID="P24_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00010" HPOS="1132" VPOS="3798" WIDTH="103" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="zu" WC="0.38" CC="7808" />
+            <SP ID="P24_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00011" HPOS="1255" VPOS="3774" WIDTH="538" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="eynem erlichen" WC="0.194615379" CC="8888887777788" />
+            <SP ID="P24_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00012" HPOS="1821" VPOS="3768" WIDTH="205" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="Titell" WC="0.46" CC="808100" />
+            <SP ID="P24_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00013" HPOS="2041" VPOS="3768" WIDTH="246" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="gesazt" WC="0.13" CC="8810888" />
+            <SP ID="P24_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00014" HPOS="2308" VPOS="3772" WIDTH="148" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="vnd hoch ge=" WC="0.244" CC="77787" />
+          </TextLine>
+          <TextLine ID="P24_TL00004" HPOS="462" VPOS="3873" WIDTH="1201" HEIGHT="112">
+            <String ID="P24_S00015" HPOS="462" VPOS="3882" WIDTH="408" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="ehret seyn." WC="0.236" CC="8987777794" />
+            <SP ID="P24_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00016" HPOS="909" VPOS="3879" WIDTH="276" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="80. dist" WC="0.20714286" CC="677101067" />
+            <SP ID="P24_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00017" HPOS="1221" VPOS="3873" WIDTH="442" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="c. Episcopi." WC="0.24727273" CC="769787610784" />
+          </TextLine>
+          <TextLine ID="P24_TL00005" HPOS="571" VPOS="3969" WIDTH="2235" HEIGHT="111">
+            <String ID="P24_S00018" HPOS="571" VPOS="3988" WIDTH="177" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="Wir" WC="0.218" CC="88884" />
+            <SP ID="P24_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00019" HPOS="769" VPOS="3993" WIDTH="261" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="ordnen" WC="0.186666667" CC="886789" />
+            <SP ID="P24_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00020" HPOS="1050" VPOS="3993" WIDTH="145" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="das" WC="0.25333333" CC="885" />
+            <SP ID="P24_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00021" HPOS="1219" VPOS="3987" WIDTH="199" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="keyne" WC="0.184" CC="77898" />
+            <SP ID="P24_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00022" HPOS="1450" VPOS="3978" WIDTH="358" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="weyhung" WC="0.182857141" CC="8897788" />
+            <SP ID="P24_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00023" HPOS="1831" VPOS="3994" WIDTH="129" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="ane" WC="0.295" CC="8838" />
+            <SP ID="P24_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00024" HPOS="1978" VPOS="3969" WIDTH="369" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="gnugliche" WC="0.204444438" CC="777787798" />
+            <SP ID="P24_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00025" HPOS="2356" VPOS="3978" WIDTH="450" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="vorsorgung" WC="0.248" CC="8677877777" />
+          </TextLine>
+          <TextLine ID="P24_TL00006" HPOS="462" VPOS="4069" WIDTH="2032" HEIGHT="124">
+            <String ID="P24_S00026" HPOS="462" VPOS="4086" WIDTH="283" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="krefftig" WC="0.23" CC="1061047" />
+            <SP ID="P24_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00027" HPOS="760" VPOS="4087" WIDTH="124" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="sey. 70. dist." WC="0.26" CC="7777" />
+            <SP ID="P24_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00028" HPOS="1180" VPOS="4081" WIDTH="462" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="sanctorum." WC="0.220909089" CC="4710858108877" />
+            <SP ID="P24_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00029" HPOS="2311" VPOS="4069" WIDTH="73" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="C" WC="0" CC="10" />
+            <SP ID="P24_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P24_S00030" HPOS="2415" VPOS="4087" WIDTH="79" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="iij" WC="0" CC="10" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

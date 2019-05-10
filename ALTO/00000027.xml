@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000027.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P26" PHYSICAL_IMG_NR="26" HEIGHT="5100" WIDTH="3750" ACCURACY="0.298983335" QUALITY_DETAIL="77 words, 501 chars, 70 with recognition greater than 50% (13.97%)">
+      <TopMargin ID="P26_TM00001" HPOS="0" VPOS="0" WIDTH="3750" HEIGHT="477" />
+      <LeftMargin ID="P26_LM00001" HPOS="0" VPOS="477" WIDTH="373" HEIGHT="3904" />
+      <RightMargin ID="P26_RM00001" HPOS="3528" VPOS="477" WIDTH="222" HEIGHT="3904" />
+      <BottomMargin ID="P26_BM00001" HPOS="0" VPOS="4381" WIDTH="3750" HEIGHT="718" />
+      <PrintSpace ID="P26_PS00001" HPOS="373" VPOS="477" WIDTH="3154" HEIGHT="3904">
+        <TextBlock ID="P26_TB00001" HPOS="1351" VPOS="472" WIDTH="477" HEIGHT="129">
+          <TextLine ID="P26_TL00001" HPOS="1374" VPOS="493" WIDTH="429" HEIGHT="102">
+            <String ID="P26_S00001" HPOS="1374" VPOS="492" WIDTH="429" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="Antichristi." WC="0.25666666" CC="857886" />
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="P26_ILL00001" HPOS="439" VPOS="606" WIDTH="2284" HEIGHT="2799" />
+        <TextBlock ID="P26_TB00002" HPOS="2680" VPOS="1341" WIDTH="835" HEIGHT="732">
+          <TextLine ID="P26_TL00002" HPOS="2680" VPOS="1374" WIDTH="832" HEIGHT="169">
+            <String ID="P26_S00002" HPOS="2680" VPOS="1374" WIDTH="21" HEIGHT="132" STYLEREFS="StyleId-0" CONTENT="" WC="0.5" CC="5" />
+            <SP ID="P26_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00003" HPOS="3483" VPOS="1369" WIDTH="30" HEIGHT="174" STYLEREFS="StyleId-0" CONTENT="" WC="0.03" CC="9" />
+          </TextLine>
+          <TextLine ID="P26_TL00003" HPOS="2854" VPOS="1692" WIDTH="327" HEIGHT="106">
+            <String ID="P26_S00004" HPOS="2854" VPOS="1692" WIDTH="327" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="" WC="0.217" CC="87967107767" />
+          </TextLine>
+          <TextLine ID="P26_TL00004" HPOS="2712" VPOS="1789" WIDTH="799" HEIGHT="148">
+            <String ID="P26_S00005" HPOS="2712" VPOS="1789" WIDTH="186" HEIGHT="153" STYLEREFS="StyleId-0" CONTENT="" WC="0.158" CC="10710410" />
+            <SP ID="P26_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00006" HPOS="2937" VPOS="1807" WIDTH="574" HEIGHT="135" STYLEREFS="StyleId-0" CONTENT="" WC="0.2530769" CC="78777787873710" />
+          </TextLine>
+          <TextLine ID="P26_TL00005" HPOS="2743" VPOS="1902" WIDTH="459" HEIGHT="159">
+            <String ID="P26_S00007" HPOS="2743" VPOS="1902" WIDTH="141" HEIGHT="148" STYLEREFS="StyleId-0" CONTENT="" WC="0" CC="1010" />
+            <SP ID="P26_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00008" HPOS="2908" VPOS="1929" WIDTH="294" HEIGHT="133" STYLEREFS="StyleId-0" CONTENT="" WC="0.106666669" CC="710101078" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P26_TB00003" HPOS="390" VPOS="3429" WIDTH="2386" HEIGHT="957">
+          <TextLine ID="P26_TL00006" HPOS="627" VPOS="3438" WIDTH="2110" HEIGHT="108">
+            <String ID="P26_S00009" HPOS="627" VPOS="3460" WIDTH="162" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="Des" WC="0.24" CC="6788" />
+            <SP ID="P26_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00010" HPOS="807" VPOS="3453" WIDTH="420" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="Antichrists" WC="0.239230767" CC="77775769797710" />
+            <SP ID="P26_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00011" HPOS="1243" VPOS="3454" WIDTH="172" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="reich" WC="0.242" CC="77769" />
+            <SP ID="P26_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00012" HPOS="1432" VPOS="3444" WIDTH="79" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="ist" WC="0.24333334" CC="858" />
+            <SP ID="P26_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00013" HPOS="1534" VPOS="3442" WIDTH="334" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="ganzlich" WC="0.34375" CC="088808810" />
+            <SP ID="P26_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00014" HPOS="1888" VPOS="3444" WIDTH="69" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="in" WC="0.12" CC="89" />
+            <SP ID="P26_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00015" HPOS="1977" VPOS="3435" WIDTH="156" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="" WC="0.18" CC="878" />
+            <SP ID="P26_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00016" HPOS="2136" VPOS="3433" WIDTH="307" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="ewßerlichem" WC="0.30375" CC="77088787" />
+            <SP ID="P26_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00017" HPOS="2464" VPOS="3426" WIDTH="184" HEIGHT="129" STYLEREFS="StyleId-0" CONTENT="weßen" WC="0.22" CC="7877" />
+            <SP ID="P26_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00018" HPOS="2658" VPOS="3438" WIDTH="79" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="/" WC="0.24" CC="7" />
+          </TextLine>
+          <TextLine ID="P26_TL00007" HPOS="423" VPOS="3534" WIDTH="2314" HEIGHT="121">
+            <String ID="P26_S00019" HPOS="423" VPOS="3583" WIDTH="181" HEIGHT="67" STYLEREFS="StyleId-0" CONTENT="was" WC="0.27" CC="77" />
+            <SP ID="P26_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00020" HPOS="627" VPOS="3562" WIDTH="159" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="sagt" WC="0.75" CC="007" />
+            <SP ID="P26_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00021" HPOS="805" VPOS="3565" WIDTH="129" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="des" WC="0.386666656" CC="0810" />
+            <SP ID="P26_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00022" HPOS="967" VPOS="3552" WIDTH="787" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="Bapsts recht anders" WC="0.275294125" CC="1080788688861070788" />
+            <SP ID="P26_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00023" HPOS="1789" VPOS="3549" WIDTH="129" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="den" WC="0.405" CC="0868" />
+            <SP ID="P26_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00024" HPOS="1938" VPOS="3544" WIDTH="358" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="ordnung /" WC="0.27" CC="87088988" />
+            <SP ID="P26_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00025" HPOS="2316" VPOS="3547" WIDTH="151" HEIGHT="118" STYLEREFS="StyleId-0" CONTENT="von" WC="0.153333336" CC="888" />
+            <SP ID="P26_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00026" HPOS="2487" VPOS="3522" WIDTH="249" HEIGHT="144" STYLEREFS="StyleId-0" CONTENT="kaseln" WC="0.32" CC="77880877" />
+          </TextLine>
+          <TextLine ID="P26_TL00008" HPOS="415" VPOS="3634" WIDTH="2328" HEIGHT="121">
+            <String ID="P26_S00027" HPOS="417" VPOS="3625" WIDTH="2326" HEIGHT="141" STYLEREFS="StyleId-0" CONTENT="cleydern /Platte / feyertage / weyunge / pfreunden / secte / monchen" WC="0.267460316" CC="88880878560776877388787888678877898610478800877788787887787610877" />
+          </TextLine>
+          <TextLine ID="P26_TL00009" HPOS="418" VPOS="3738" WIDTH="2326" HEIGHT="118">
+            <String ID="P26_S00028" HPOS="418" VPOS="3775" WIDTH="165" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="un" WC="0.50666666" CC="680" />
+            <SP ID="P26_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00029" HPOS="601" VPOS="3760" WIDTH="417" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="pfaffen / vn" WC="0.373636365" CC="87738807466" />
+            <SP ID="P26_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00030" HPOS="1036" VPOS="3774" WIDTH="264" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="nennen" WC="0.591666639" CC="087080" />
+            <SP ID="P26_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00031" HPOS="1318" VPOS="3753" WIDTH="259" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="sich / yr" WC="0.28285715" CC="4779676" />
+            <SP ID="P26_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00032" HPOS="1593" VPOS="3750" WIDTH="186" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="habe" WC="0.105" CC="88108" />
+            <SP ID="P26_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00033" HPOS="1795" VPOS="3745" WIDTH="153" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.06" CC="10810" />
+            <SP ID="P26_SP00025" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00034" HPOS="1968" VPOS="3753" WIDTH="232" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="gutter" WC="0.236666664" CC="7667710" />
+            <SP ID="P26_SP00026" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00035" HPOS="2215" VPOS="3727" WIDTH="313" HEIGHT="139" STYLEREFS="StyleId-0" CONTENT="geystlich" WC="0.356666654" CC="0786808710" />
+            <SP ID="P26_SP00027" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00036" HPOS="2548" VPOS="3736" WIDTH="196" HEIGHT="130" STYLEREFS="StyleId-0" CONTENT="gutt /" WC="0.19" CC="108777" />
+          </TextLine>
+          <TextLine ID="P26_TL00010" HPOS="418" VPOS="3838" WIDTH="2325" HEIGHT="117">
+            <String ID="P26_S00037" HPOS="418" VPOS="3874" WIDTH="160" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="sich" WC="0.3475" CC="44710" />
+            <SP ID="P26_SP00028" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00038" HPOS="600" VPOS="3873" WIDTH="198" HEIGHT="84" STYLEREFS="StyleId-0" CONTENT="allein" WC="0.4157143" CC="7037768" />
+            <SP ID="P26_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00039" HPOS="820" VPOS="3868" WIDTH="103" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="die" WC="0.41" CC="088" />
+            <SP ID="P26_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00040" HPOS="940" VPOS="3856" WIDTH="370" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="Christlich" WC="0.454" CC="77605540710" />
+            <SP ID="P26_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00041" HPOS="1332" VPOS="3840" WIDTH="673" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="kirche / die pfaffen" WC="0.345882356" CC="8088775100810586708" />
+            <SP ID="P26_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00042" HPOS="2025" VPOS="3844" WIDTH="81" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="dz" WC="0.595" CC="08" />
+            <SP ID="P26_SP00033" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00043" HPOS="2127" VPOS="3831" WIDTH="376" HEIGHT="133" STYLEREFS="StyleId-0" CONTENT="außerwelt" WC="0.2588889" CC="888878808" />
+            <SP ID="P26_SP00034" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00044" HPOS="2536" VPOS="3826" WIDTH="205" HEIGHT="138" STYLEREFS="StyleId-0" CONTENT="volck" WC="0.294" CC="108088" />
+          </TextLine>
+          <TextLine ID="P26_TL00011" HPOS="417" VPOS="3948" WIDTH="2322" HEIGHT="115">
+            <String ID="P26_S00045" HPOS="417" VPOS="3972" WIDTH="442" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="gotts / gleick" WC="0.24818182" CC="87787808888" />
+            <SP ID="P26_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00046" HPOS="882" VPOS="3969" WIDTH="150" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="sam" WC="0.3275" CC="7487" />
+            <SP ID="P26_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00047" HPOS="1048" VPOS="3982" WIDTH="226" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="weren" WC="0.165" CC="8878" />
+            <SP ID="P26_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00048" HPOS="1294" VPOS="3961" WIDTH="103" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="die" WC="0.77" CC="006" />
+            <SP ID="P26_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00049" HPOS="1417" VPOS="3955" WIDTH="180" HEIGHT="118" STYLEREFS="StyleId-0" CONTENT="leyen" WC="0.428" CC="0810100" />
+            <SP ID="P26_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00050" HPOS="1627" VPOS="3952" WIDTH="198" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="nicht" WC="0.283333331" CC="60810108" />
+            <SP ID="P26_SP00040" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00051" HPOS="1842" VPOS="3952" WIDTH="66" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="in" WC="0.2" CC="78" />
+            <SP ID="P26_SP00041" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00052" HPOS="1927" VPOS="3949" WIDTH="114" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="der" WC="0.39" CC="0108" />
+            <SP ID="P26_SP00042" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00053" HPOS="2061" VPOS="3942" WIDTH="265" HEIGHT="132" STYLEREFS="StyleId-0" CONTENT="kirchen" WC="0.22625" CC="108579767" />
+            <SP ID="P26_SP00043" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00054" HPOS="2352" VPOS="3937" WIDTH="151" HEIGHT="136" STYLEREFS="StyleId-0" CONTENT="und" WC="0.576666653" CC="480" />
+            <SP ID="P26_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00055" HPOS="2527" VPOS="3945" WIDTH="211" HEIGHT="129" STYLEREFS="StyleId-0" CONTENT="gots /" WC="0.208" CC="88778" />
+          </TextLine>
+          <TextLine ID="P26_TL00012" HPOS="417" VPOS="4047" WIDTH="2326" HEIGHT="117">
+            <String ID="P26_S00056" HPOS="417" VPOS="4083" WIDTH="280" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="widder" WC="0.5214286" CC="7080808" />
+            <SP ID="P26_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00057" HPOS="712" VPOS="4074" WIDTH="124" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="alle" WC="0.5725" CC="8008" />
+            <SP ID="P26_SP00046" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00058" HPOS="858" VPOS="4063" WIDTH="289" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="schrifft /" WC="0.286666662" CC="279886776" />
+            <SP ID="P26_SP00047" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00059" HPOS="1168" VPOS="4063" WIDTH="163" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="vbir" WC="0.3525" CC="10087" />
+            <SP ID="P26_SP00048" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00060" HPOS="1351" VPOS="4065" WIDTH="145" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="das" WC="0.43" CC="088" />
+            <SP ID="P26_SP00049" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00061" HPOS="1518" VPOS="4054" WIDTH="280" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="verbeut" WC="0.307142854" CC="71080886" />
+            <SP ID="P26_SP00050" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00062" HPOS="1813" VPOS="4071" WIDTH="63" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="er" WC="0.35" CC="75" />
+            <SP ID="P26_SP00051" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00063" HPOS="1890" VPOS="4050" WIDTH="106" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="die" WC="0.13666667" CC="1087" />
+            <SP ID="P26_SP00052" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00064" HPOS="2016" VPOS="4044" WIDTH="264" HEIGHT="130" STYLEREFS="StyleId-0" CONTENT="speyße" WC="0.184285715" CC="7787988" />
+            <SP ID="P26_SP00053" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00065" HPOS="2296" VPOS="4039" WIDTH="279" HEIGHT="135" STYLEREFS="StyleId-0" CONTENT="ehe / wie" WC="0.2225" CC="79758788" />
+            <SP ID="P26_SP00054" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00066" HPOS="2596" VPOS="4035" WIDTH="147" HEIGHT="139" STYLEREFS="StyleId-0" CONTENT="dan" WC="0.0333333351" CC="10109" />
+          </TextLine>
+          <TextLine ID="P26_TL00013" HPOS="417" VPOS="4147" WIDTH="2334" HEIGHT="129">
+            <String ID="P26_S00067" HPOS="417" VPOS="4179" WIDTH="304" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="Paulus" WC="0.3" CC="888087" />
+            <SP ID="P26_SP00055" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00068" HPOS="741" VPOS="4180" WIDTH="373" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="vorgesagt" WC="0.164444447" CC="1088877888" />
+            <SP ID="P26_SP00056" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00069" HPOS="1128" VPOS="4170" WIDTH="168" HEIGHT="118" STYLEREFS="StyleId-0" CONTENT="hat." WC="0.21" CC="7877" />
+            <SP ID="P26_SP00057" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00070" HPOS="1308" VPOS="4162" WIDTH="132" HEIGHT="126" STYLEREFS="StyleId-0" CONTENT="Es" WC="0.25" CC="886" />
+            <SP ID="P26_SP00058" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00071" HPOS="1456" VPOS="4161" WIDTH="279" HEIGHT="127" STYLEREFS="StyleId-0" CONTENT="werden" WC="0.315" CC="7107079" />
+            <SP ID="P26_SP00059" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00072" HPOS="1750" VPOS="4153" WIDTH="243" HEIGHT="135" STYLEREFS="StyleId-0" CONTENT="komen" WC="0.272" CC="82888" />
+            <SP ID="P26_SP00060" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00073" HPOS="2008" VPOS="4146" WIDTH="330" HEIGHT="142" STYLEREFS="StyleId-0" CONTENT="vorlogne" WC="0.4225" CC="88207288" />
+            <SP ID="P26_SP00061" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00074" HPOS="2355" VPOS="4137" WIDTH="213" HEIGHT="151" STYLEREFS="StyleId-0" CONTENT="geyst" WC="0.195" CC="888786" />
+            <SP ID="P26_SP00062" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00075" HPOS="2586" VPOS="4137" WIDTH="165" HEIGHT="151" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.433333337" CC="772" />
+          </TextLine>
+          <TextLine ID="P26_TL00014" HPOS="421" VPOS="4266" WIDTH="1239" HEIGHT="118">
+            <String ID="P26_S00076" HPOS="421" VPOS="4284" WIDTH="229" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="solche" WC="0.178" CC="877107" />
+            <SP ID="P26_SP00063" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P26_S00077" HPOS="663" VPOS="4261" WIDTH="997" HEIGHT="129" STYLEREFS="StyleId-0" CONTENT="ding vorbieten. 1. Timo. 4." WC="0.24611111" CC="1987877866778888105" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
