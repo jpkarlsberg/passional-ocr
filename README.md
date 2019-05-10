@@ -1,2 +1,2 @@
 # passional-ocr
-Passional Christi und Antichristi OCR Correction
+_Passional Christi und Antichristi_ OCR Correction
