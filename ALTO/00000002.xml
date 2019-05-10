@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000002.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P1" PHYSICAL_IMG_NR="1" HEIGHT="5100" WIDTH="3750" ACCURACY="0.838903844" QUALITY_DETAIL="11 words, 82 chars, 69 with recognition greater than 50% (84.15%)">
+      <TopMargin ID="P1_TM00001" HPOS="0" VPOS="0" WIDTH="3750" HEIGHT="1131" />
+      <LeftMargin ID="P1_LM00001" HPOS="0" VPOS="1131" WIDTH="1278" HEIGHT="1612" />
+      <RightMargin ID="P1_RM00001" HPOS="2817" VPOS="1131" WIDTH="933" HEIGHT="1612" />
+      <BottomMargin ID="P1_BM00001" HPOS="0" VPOS="2743" WIDTH="3750" HEIGHT="2356" />
+      <PrintSpace ID="P1_PS00001" HPOS="1278" VPOS="1131" WIDTH="1539" HEIGHT="1612">
+        <TextBlock ID="P1_TB00001" HPOS="1278" VPOS="1131" WIDTH="1539" HEIGHT="441">
+          <TextLine ID="P1_TL00001" HPOS="1302" VPOS="1152" WIDTH="1479" HEIGHT="93">
+            <String ID="P1_S00001" HPOS="1302" VPOS="1158" WIDTH="645" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="RICHARD" WC="0.871428549" CC="0305000" />
+            <SP ID="P1_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P1_S00002" HPOS="2016" VPOS="1155" WIDTH="105" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="C." WC="1" CC="00" />
+            <SP ID="P1_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P1_S00003" HPOS="2196" VPOS="1152" WIDTH="585" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="KESSLER" WC="0.96" CC="2000000" />
+          </TextLine>
+          <TextLine ID="P1_TL00002" HPOS="1530" VPOS="1299" WIDTH="1020" HEIGHT="93">
+            <String ID="P1_S00004" HPOS="1530" VPOS="1299" WIDTH="1020" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="REFORMATION" WC="0.892727256" CC="00000013006" />
+          </TextLine>
+          <TextLine ID="P1_TL00003" HPOS="1578" VPOS="1452" WIDTH="906" HEIGHT="90">
+            <String ID="P1_S00005" HPOS="1578" VPOS="1452" WIDTH="906" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="COLLECTION" WC="0.925" CC="0003002002" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P1_TB00002" HPOS="1401" VPOS="2388" WIDTH="1296" HEIGHT="355">
+          <TextLine ID="P1_TL00004" HPOS="1413" VPOS="2400" WIDTH="1272" HEIGHT="69">
+            <String ID="P1_S00006" HPOS="1413" VPOS="2406" WIDTH="264" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="PITTS" WC="0.556" CC="78420" />
+            <SP ID="P1_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P1_S00007" HPOS="1719" VPOS="2403" WIDTH="522" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="THEOLOGY" WC="0.8725" CC="00401004" />
+            <SP ID="P1_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P1_S00008" HPOS="2286" VPOS="2400" WIDTH="399" HEIGHT="69" STYLEREFS="StyleId-0" CONTENT="LIBRARY" WC="0.6842857" CC="6150134" />
+          </TextLine>
+          <TextLine ID="P1_TL00005" HPOS="1569" VPOS="2532" WIDTH="948" HEIGHT="66">
+            <String ID="P1_S00009" HPOS="1569" VPOS="2538" WIDTH="321" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="EMORY" WC="1" CC="00000" />
+            <SP ID="P1_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P1_S00010" HPOS="1935" VPOS="2532" WIDTH="582" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="UNIVERSITY" WC="0.81" CC="3660000100" />
+          </TextLine>
+          <TextLine ID="P1_TL00006" HPOS="1659" VPOS="2667" WIDTH="780" HEIGHT="48">
+            <String ID="P1_S00011" HPOS="1659" VPOS="2667" WIDTH="780" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="MCMLXXXVII" WC="0.656" CC="6063665000" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

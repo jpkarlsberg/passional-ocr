@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000013.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P12" PHYSICAL_IMG_NR="12" HEIGHT="5109" WIDTH="3762" ACCURACY="0.305754334" QUALITY_DETAIL="54 words, 432 chars, 73 with recognition greater than 50% (16.90%)">
+      <TopMargin ID="P12_TM00001" HPOS="0" VPOS="0" WIDTH="3762" HEIGHT="517" />
+      <LeftMargin ID="P12_LM00001" HPOS="0" VPOS="517" WIDTH="307" HEIGHT="3882" />
+      <RightMargin ID="P12_RM00001" HPOS="2805" VPOS="517" WIDTH="957" HEIGHT="3882" />
+      <BottomMargin ID="P12_BM00001" HPOS="0" VPOS="4399" WIDTH="3762" HEIGHT="709" />
+      <PrintSpace ID="P12_PS00001" HPOS="307" VPOS="517" WIDTH="2497" HEIGHT="3882">
+        <Illustration ID="P12_ILL00001" HPOS="433" VPOS="733" WIDTH="2292" HEIGHT="2803" />
+        <TextBlock ID="P12_TB00001" HPOS="300" VPOS="3543" WIDTH="2505" HEIGHT="856">
+          <TextLine ID="P12_TL00001" HPOS="411" VPOS="3555" WIDTH="2314" HEIGHT="106">
+            <String ID="P12_S00001" HPOS="411" VPOS="3558" WIDTH="396" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="WIr sezen" WC="0.167" CC="8887888878" />
+            <SP ID="P12_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00002" HPOS="847" VPOS="3570" WIDTH="151" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.24666667" CC="777" />
+            <SP ID="P12_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00003" HPOS="1023" VPOS="3565" WIDTH="252" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="ordnen" WC="0.116666667" CC="8810988" />
+            <SP ID="P12_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00004" HPOS="1479" VPOS="3559" WIDTH="127" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="den" WC="0.275" CC="7767" />
+            <SP ID="P12_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00005" HPOS="1641" VPOS="3561" WIDTH="670" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="mit nicht gezimen" WC="0.30375" CC="5878775888837817" />
+            <SP ID="P12_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00006" HPOS="2343" VPOS="3559" WIDTH="382" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="sall ßo den" WC="0.306" CC="810008771089" />
+          </TextLine>
+          <TextLine ID="P12_TL00002" HPOS="409" VPOS="3655" WIDTH="2313" HEIGHT="109">
+            <String ID="P12_S00007" HPOS="409" VPOS="3661" WIDTH="393" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="weltlichen" WC="0.4025" CC="777070769477" />
+            <SP ID="P12_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00008" HPOS="823" VPOS="3666" WIDTH="309" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="gerichts" WC="0.37" CC="088860878" />
+            <SP ID="P12_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00009" HPOS="1155" VPOS="3660" WIDTH="271" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="zwagk" WC="0.354" CC="87807" />
+            <SP ID="P12_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00010" HPOS="1444" VPOS="3658" WIDTH="183" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="habe" WC="0.355" CC="8808" />
+            <SP ID="P12_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00011" HPOS="1647" VPOS="3658" WIDTH="222" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="stewir" WC="0.367142856" CC="7883808" />
+            <SP ID="P12_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00012" HPOS="1888" VPOS="3663" WIDTH="99" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="vn" WC="0.24333334" CC="777" />
+            <SP ID="P12_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00013" HPOS="2004" VPOS="3664" WIDTH="207" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="schoß" WC="0.094" CC="8101088" />
+            <SP ID="P12_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00014" HPOS="2229" VPOS="3672" WIDTH="76" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="de" WC="0.295" CC="76" />
+            <SP ID="P12_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00015" HPOS="2323" VPOS="3663" WIDTH="399" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="geystlichen" WC="0.248333335" CC="088687888889" />
+          </TextLine>
+          <TextLine ID="P12_TL00003" HPOS="312" VPOS="3754" WIDTH="2409" HEIGHT="115">
+            <String ID="P12_S00016" HPOS="312" VPOS="3816" WIDTH="24" HEIGHT="24" STYLEREFS="StyleId-0" CONTENT="" WC="0.28" CC="7" />
+            <SP ID="P12_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00017" HPOS="405" VPOS="3754" WIDTH="2316" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="personen vffzulegen ader den zu forderen von yren hewsern vn" WC="0.307118654" CC="7775744777777467074777777710777777677710105104471007974477767777" />
+          </TextLine>
+          <TextLine ID="P12_TL00004" HPOS="405" VPOS="3861" WIDTH="2320" HEIGHT="121">
+            <String ID="P12_S00018" HPOS="405" VPOS="3865" WIDTH="457" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="allen andern" WC="0.338" CC="84098810078" />
+            <SP ID="P12_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00019" HPOS="889" VPOS="3885" WIDTH="276" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="guttern" WC="0.155714288" CC="10778879" />
+            <SP ID="P12_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00020" HPOS="1191" VPOS="3867" WIDTH="121" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="bey" WC="0.25333333" CC="777" />
+            <SP ID="P12_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00021" HPOS="1336" VPOS="3862" WIDTH="273" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="der puß" WC="0.441666663" CC="0877010" />
+            <SP ID="P12_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00022" HPOS="1630" VPOS="3870" WIDTH="120" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="des" WC="0.34" CC="774" />
+            <SP ID="P12_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00023" HPOS="1777" VPOS="3871" WIDTH="339" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="schweren" WC="0.1075" CC="8810810889" />
+            <SP ID="P12_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00024" HPOS="2139" VPOS="3867" WIDTH="189" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="band" WC="0.095" CC="10898" />
+            <SP ID="P12_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00025" HPOS="2347" VPOS="3874" WIDTH="148" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.6425" CC="7060" />
+            <SP ID="P12_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00026" HPOS="2515" VPOS="3882" WIDTH="210" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="inter-" WC="0.28" CC="66769" />
+          </TextLine>
+          <TextLine ID="P12_TL00005" HPOS="409" VPOS="3963" WIDTH="2310" HEIGHT="121">
+            <String ID="P12_S00027" HPOS="409" VPOS="3973" WIDTH="214" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="dictis" WC="0.343333334" CC="086788" />
+            <SP ID="P12_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00028" HPOS="642" VPOS="3987" WIDTH="28" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="/" WC="0.7" CC="3" />
+            <SP ID="P12_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00029" HPOS="693" VPOS="3975" WIDTH="123" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="des" WC="0.0966666639" CC="1088" />
+            <SP ID="P12_SP00025" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00030" HPOS="841" VPOS="3969" WIDTH="315" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="gleychen" WC="0.192222223" CC="1078779777" />
+            <SP ID="P12_SP00026" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00031" HPOS="1180" VPOS="3964" WIDTH="199" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="sollen" WC="0.4242857" CC="7708844" />
+            <SP ID="P12_SP00027" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00032" HPOS="1404" VPOS="3970" WIDTH="99" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="die" WC="0.723333359" CC="008" />
+            <SP ID="P12_SP00028" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00033" HPOS="1524" VPOS="3966" WIDTH="394" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="geystlichen" WC="0.274166673" CC="4776747797710" />
+            <SP ID="P12_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00034" HPOS="1941" VPOS="3969" WIDTH="178" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="dieße" WC="0.46" CC="008108" />
+            <SP ID="P12_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00035" HPOS="2140" VPOS="3966" WIDTH="120" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="alle" WC="0.58" CC="8008" />
+            <SP ID="P12_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00036" HPOS="2298" VPOS="3972" WIDTH="195" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="nicht" WC="0.345" CC="827775" />
+            <SP ID="P12_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00037" HPOS="2512" VPOS="3969" WIDTH="207" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="zalen" WC="0.34" CC="577103" />
+          </TextLine>
+          <TextLine ID="P12_TL00006" HPOS="405" VPOS="4065" WIDTH="2314" HEIGHT="111">
+            <String ID="P12_S00038" HPOS="405" VPOS="4068" WIDTH="1698" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="sonder unser erleubnis. c. i. de imunit. eccle. li." WC="0.359047621" CC="4810887288888878888777470888088184087107086" />
+            <SP ID="P12_SP00033" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00039" HPOS="2115" VPOS="4092" WIDTH="100" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="vi." WC="0.405" CC="74" />
+            <SP ID="P12_SP00034" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00040" HPOS="2253" VPOS="4069" WIDTH="181" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="Also" WC="0.216666669" CC="886788" />
+            <SP ID="P12_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00041" HPOS="2454" VPOS="4072" WIDTH="267" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="hat der" WC="0.188571423" CC="7986788" />
+          </TextLine>
+          <TextLine ID="P12_TL00007" HPOS="406" VPOS="4167" WIDTH="2308" HEIGHT="112">
+            <String ID="P12_S00042" HPOS="406" VPOS="4174" WIDTH="256" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="Babst" WC="0.173333332" CC="8881058" />
+            <SP ID="P12_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00043" HPOS="697" VPOS="4174" WIDTH="405" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="gots gebot" WC="0.3188889" CC="0888108088" />
+            <SP ID="P12_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00044" HPOS="1134" VPOS="4171" WIDTH="223" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="durch" WC="0.32" CC="088107" />
+            <SP ID="P12_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00045" HPOS="1386" VPOS="4168" WIDTH="795" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="seyne gebott zurissen /" WC="0.275" CC="888068107088888888108085" />
+            <SP ID="P12_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00046" HPOS="2494" VPOS="4174" WIDTH="97" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="seyner" WC="0.236666664" CC="687" />
+            <SP ID="P12_SP00040" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00047" HPOS="2601" VPOS="4194" WIDTH="114" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="" WC="0.4225" CC="1777" />
+          </TextLine>
+          <TextLine ID="P12_TL00008" HPOS="400" VPOS="4266" WIDTH="2067" HEIGHT="121">
+            <String ID="P12_S00048" HPOS="400" VPOS="4276" WIDTH="529" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="vnchustlichen" WC="0.303076923" CC="74410977077979" />
+            <SP ID="P12_SP00041" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00049" HPOS="955" VPOS="4273" WIDTH="316" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="decretael" WC="0.36875" CC="107067773" />
+            <SP ID="P12_SP00042" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00050" HPOS="1294" VPOS="4288" WIDTH="237" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="eynigs" WC="0.158" CC="88888" />
+            <SP ID="P12_SP00043" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00051" HPOS="1554" VPOS="4270" WIDTH="217" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="werck" WC="0.198" CC="78878" />
+            <SP ID="P12_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00052" HPOS="1791" VPOS="4270" WIDTH="106" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="ist." WC="0.18" CC="8887" />
+            <SP ID="P12_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P12_S00053" HPOS="2376" VPOS="4270" WIDTH="91" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="B" WC="0.165" CC="88" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P12_TB00002" HPOS="1143" VPOS="519" WIDTH="820" HEIGHT="217">
+          <TextLine ID="P12_TL00009" HPOS="1204" VPOS="525" WIDTH="735" HEIGHT="196">
+            <String ID="P12_S00054" HPOS="1204" VPOS="526" WIDTH="735" HEIGHT="195" STYLEREFS="StyleId-0" CONTENT="Antichristi." WC="0.358" CC="10887761870" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

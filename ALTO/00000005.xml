@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000005.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P4" PHYSICAL_IMG_NR="4" HEIGHT="5113" WIDTH="3768" ACCURACY="0.246" QUALITY_DETAIL="3 words, 7 chars, 0 with recognition greater than 50% (0.00%)">
+      <TopMargin ID="P4_TM00001" HPOS="0" VPOS="0" WIDTH="3768" HEIGHT="531" />
+      <LeftMargin ID="P4_LM00001" HPOS="0" VPOS="531" WIDTH="340" HEIGHT="3996" />
+      <RightMargin ID="P4_RM00001" HPOS="2980" VPOS="531" WIDTH="787" HEIGHT="3996" />
+      <BottomMargin ID="P4_BM00001" HPOS="0" VPOS="4527" WIDTH="3768" HEIGHT="586" />
+      <PrintSpace ID="P4_PS00001" HPOS="340" VPOS="531" WIDTH="2640" HEIGHT="3996">
+        <TextBlock ID="P4_TB00001" HPOS="970" VPOS="1419" WIDTH="1392" HEIGHT="1924" />
+        <Illustration ID="P4_ILL00001" HPOS="340" VPOS="531" WIDTH="2641" HEIGHT="3666" />
+        <TextBlock ID="P4_TB00002" HPOS="870" VPOS="4291" WIDTH="1530" HEIGHT="234">
+          <TextLine ID="P4_TL00001" HPOS="963" VPOS="4366" WIDTH="328" HEIGHT="106">
+            <String ID="P4_S00001" HPOS="963" VPOS="4368" WIDTH="328" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="jnhr bey Mattsa. Matrow im Franfurt" WC="0.318" CC="96557" />
+          </TextLine>
+          <TextLine ID="P4_TL00002" HPOS="937" VPOS="4441" WIDTH="357" HEIGHT="79">
+            <String ID="P4_S00002" HPOS="937" VPOS="4459" WIDTH="49" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="" WC="0.32" CC="6" />
+            <SP ID="P4_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P4_S00003" HPOS="1207" VPOS="4443" WIDTH="87" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="" WC="0.1" CC="9" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

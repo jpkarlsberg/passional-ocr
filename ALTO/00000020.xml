@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000020.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P19" PHYSICAL_IMG_NR="19" HEIGHT="5100" WIDTH="3750" ACCURACY="0.263307661" QUALITY_DETAIL="48 words, 222 chars, 23 with recognition greater than 50% (10.36%)">
+      <TopMargin ID="P19_TM00001" HPOS="0" VPOS="0" WIDTH="3750" HEIGHT="504" />
+      <LeftMargin ID="P19_LM00001" HPOS="0" VPOS="504" WIDTH="1207" HEIGHT="3801" />
+      <RightMargin ID="P19_RM00001" HPOS="3642" VPOS="504" WIDTH="108" HEIGHT="3801" />
+      <BottomMargin ID="P19_BM00001" HPOS="0" VPOS="4305" WIDTH="3750" HEIGHT="795" />
+      <PrintSpace ID="P19_PS00001" HPOS="1207" VPOS="504" WIDTH="2434" HEIGHT="3801">
+        <TextBlock ID="P19_TB00001" HPOS="1222" VPOS="3703" WIDTH="2419" HEIGHT="601">
+          <TextLine ID="P19_TL00001" HPOS="2220" VPOS="3747" WIDTH="331" HEIGHT="100">
+            <String ID="P19_S00001" HPOS="2220" VPOS="3747" WIDTH="331" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="Christus" WC="0.12833333" CC="1087898" />
+          </TextLine>
+          <TextLine ID="P19_TL00002" HPOS="1273" VPOS="3844" WIDTH="2298" HEIGHT="103">
+            <String ID="P19_S00002" HPOS="1273" VPOS="3858" WIDTH="135" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="Die" WC="0.185" CC="8788" />
+            <SP ID="P19_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00003" HPOS="1434" VPOS="3856" WIDTH="228" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="fuechß" WC="0.473333329" CC="209694" />
+            <SP ID="P19_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00004" HPOS="1686" VPOS="3858" WIDTH="228" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="haben" WC="0.29" CC="1080868" />
+            <SP ID="P19_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00005" HPOS="1930" VPOS="3874" WIDTH="108" HEIGHT="84" STYLEREFS="StyleId-0" CONTENT="yre" WC="0.0966666639" CC="8108" />
+            <SP ID="P19_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00006" HPOS="2056" VPOS="3855" WIDTH="259" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="grüben" WC="0.3014286" CC="8880877" />
+            <SP ID="P19_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00007" HPOS="2335" VPOS="3868" WIDTH="28" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="/" WC="0.45" CC="5" />
+            <SP ID="P19_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00008" HPOS="2383" VPOS="3861" WIDTH="150" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.446666658" CC="880" />
+            <SP ID="P19_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00009" HPOS="2554" VPOS="3850" WIDTH="97" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="die" WC="0.213333338" CC="787" />
+            <SP ID="P19_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00010" HPOS="2671" VPOS="3844" WIDTH="204" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="fogell" WC="0.261428565" CC="61077757" />
+            <SP ID="P19_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00011" HPOS="2892" VPOS="3847" WIDTH="115" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="der" WC="0.18" CC="788" />
+            <SP ID="P19_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00012" HPOS="3024" VPOS="3841" WIDTH="168" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="lufft" WC="0.294" CC="87478" />
+            <SP ID="P19_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00013" HPOS="3214" VPOS="3859" WIDTH="109" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="yre" WC="0.19" CC="887" />
+            <SP ID="P19_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00014" HPOS="3418" VPOS="3835" WIDTH="153" HEIGHT="123" STYLEREFS="StyleId-0" CONTENT="nester" WC="0.296666652" CC="479" />
+          </TextLine>
+          <TextLine ID="P19_TL00003" HPOS="1269" VPOS="3940" WIDTH="2304" HEIGHT="111">
+            <String ID="P19_S00015" HPOS="1269" VPOS="3964" WIDTH="178" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="Aber" WC="0.156" CC="771088" />
+            <SP ID="P19_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00016" HPOS="1459" VPOS="3958" WIDTH="46" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="ein" WC="0.14" CC="8" />
+            <SP ID="P19_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00017" HPOS="1527" VPOS="3970" WIDTH="120" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="son" WC="0.19" CC="5109" />
+            <SP ID="P19_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00018" HPOS="1668" VPOS="3966" WIDTH="121" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="des" WC="0.173333332" CC="1077" />
+            <SP ID="P19_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00019" HPOS="1810" VPOS="3961" WIDTH="352" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="menschen" WC="0.25" CC="78657810767" />
+            <SP ID="P19_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00020" HPOS="2187" VPOS="3957" WIDTH="135" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="hat" WC="0.173333332" CC="978" />
+            <SP ID="P19_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00021" HPOS="2343" VPOS="3958" WIDTH="195" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="nicht" WC="0.1925" CC="8797" />
+            <SP ID="P19_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00022" HPOS="2554" VPOS="3957" WIDTH="93" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="do" WC="0.62" CC="07" />
+            <SP ID="P19_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00023" HPOS="2665" VPOS="3976" WIDTH="66" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="er" WC="0.195" CC="87" />
+            <SP ID="P19_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00024" HPOS="2749" VPOS="3934" WIDTH="145" HEIGHT="127" STYLEREFS="StyleId-0" CONTENT="seyn" WC="0.294" CC="57767" />
+            <SP ID="P19_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00025" HPOS="2920" VPOS="3952" WIDTH="214" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="heubt" WC="0.368" CC="98607" />
+            <SP ID="P19_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00026" HPOS="3150" VPOS="3939" WIDTH="423" HEIGHT="123" STYLEREFS="StyleId-0" CONTENT="legte. Lu. 9." WC="0.258" CC="6878797774" />
+          </TextLine>
+          <TextLine ID="P19_TL00004" HPOS="1269" VPOS="4042" WIDTH="2307" HEIGHT="108">
+            <String ID="P19_S00027" HPOS="1269" VPOS="4065" WIDTH="246" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="Dießer" WC="0.168571427" CC="810866108" />
+            <SP ID="P19_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00028" HPOS="1534" VPOS="4062" WIDTH="93" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="ab" WC="0.26" CC="77" />
+            <SP ID="P19_SP00025" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00029" HPOS="1647" VPOS="4083" WIDTH="64" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="er" WC="0.24" CC="77" />
+            <SP ID="P19_SP00026" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00030" HPOS="1731" VPOS="4060" WIDTH="172" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="woll" WC="0.6175" CC="7070" />
+            <SP ID="P19_SP00027" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00031" HPOS="1924" VPOS="4060" WIDTH="171" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="reich" WC="0.12" CC="888810" />
+            <SP ID="P19_SP00028" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00032" HPOS="2118" VPOS="4078" WIDTH="163" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="war" WC="0.183333337" CC="788" />
+            <SP ID="P19_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00033" HPOS="2301" VPOS="4071" WIDTH="28" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="/" WC="0.4" CC="6" />
+            <SP ID="P19_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00034" HPOS="2347" VPOS="4054" WIDTH="315" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="dennoch" WC="0.4" CC="0887089" />
+            <SP ID="P19_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00035" HPOS="2694" VPOS="4054" WIDTH="181" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="umb" WC="0.25666666" CC="777" />
+            <SP ID="P19_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00036" HPOS="2893" VPOS="4060" WIDTH="231" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="unsert" WC="0.438571423" CC="4677831" />
+            <SP ID="P19_SP00033" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00037" HPOS="3150" VPOS="4041" WIDTH="220" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="willen" WC="0.395714283" CC="8800888" />
+            <SP ID="P19_SP00034" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00038" HPOS="3394" VPOS="4033" WIDTH="91" HEIGHT="127" STYLEREFS="StyleId-0" CONTENT="ist" WC="0.233333334" CC="877" />
+            <SP ID="P19_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00039" HPOS="3508" VPOS="4059" WIDTH="67" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="er" WC="0.185" CC="87" />
+          </TextLine>
+          <TextLine ID="P19_TL00005" HPOS="1270" VPOS="4152" WIDTH="2311" HEIGHT="106">
+            <String ID="P19_S00040" HPOS="1270" VPOS="4185" WIDTH="159" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="arm" WC="0.206666663" CC="787" />
+            <SP ID="P19_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00041" HPOS="1447" VPOS="4165" WIDTH="465" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="worden / vnd" WC="0.178571433" CC="710867710" />
+            <SP ID="P19_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00042" HPOS="1932" VPOS="4162" WIDTH="148" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="seyn armut hat" WC="0.176" CC="78888" />
+            <SP ID="P19_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00043" HPOS="2505" VPOS="4177" WIDTH="147" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="vns" WC="0.22" CC="877" />
+            <SP ID="P19_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00044" HPOS="2670" VPOS="4158" WIDTH="178" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="reich gemacht. 2. Cor. 8" WC="0.18" CC="78879" />
+            <SP ID="P19_SP00040" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00045" HPOS="2866" VPOS="4143" WIDTH="715" HEIGHT="123" STYLEREFS="StyleId-0" CONTENT="" WC="0.245384619" CC="8879168787987" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P19_TB00002" HPOS="1677" VPOS="502" WIDTH="1447" HEIGHT="255">
+          <TextLine ID="P19_TL00006" HPOS="1698" VPOS="556" WIDTH="1402" HEIGHT="195">
+            <String ID="P19_S00046" HPOS="1699" VPOS="558" WIDTH="639" HEIGHT="178" STYLEREFS="StyleId-0" CONTENT="Passional" WC="0.265" CC="8877778871" />
+            <SP ID="P19_SP00041" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00047" HPOS="2380" VPOS="552" WIDTH="414" HEIGHT="201" STYLEREFS="StyleId-0" CONTENT="Christis" WC="0.271428585" CC="7787738" />
+            <SP ID="P19_SP00042" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P19_S00048" HPOS="2839" VPOS="562" WIDTH="261" HEIGHT="190" STYLEREFS="StyleId-0" CONTENT="und" WC="0.18" CC="878" />
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="P19_ILL00001" HPOS="1281" VPOS="802" WIDTH="2293" HEIGHT="2850" />
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

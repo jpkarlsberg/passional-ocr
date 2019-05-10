@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000017.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P16" PHYSICAL_IMG_NR="16" HEIGHT="5110" WIDTH="3765" ACCURACY="0.3446066" QUALITY_DETAIL="55 words, 303 chars, 67 with recognition greater than 50% (22.11%)">
+      <TopMargin ID="P16_TM00001" HPOS="0" VPOS="0" WIDTH="3765" HEIGHT="429" />
+      <LeftMargin ID="P16_LM00001" HPOS="0" VPOS="429" WIDTH="381" HEIGHT="3904" />
+      <RightMargin ID="P16_RM00001" HPOS="2763" VPOS="429" WIDTH="1002" HEIGHT="3904" />
+      <BottomMargin ID="P16_BM00001" HPOS="0" VPOS="4333" WIDTH="3765" HEIGHT="777" />
+      <PrintSpace ID="P16_PS00001" HPOS="381" VPOS="429" WIDTH="2382" HEIGHT="3904">
+        <Illustration ID="P16_ILL00001" HPOS="505" VPOS="705" WIDTH="2230" HEIGHT="2866" />
+        <TextBlock ID="P16_TB00001" HPOS="1216" VPOS="430" WIDTH="754" HEIGHT="232">
+          <TextLine ID="P16_TL00001" HPOS="1228" VPOS="442" WIDTH="732" HEIGHT="207">
+            <String ID="P16_S00001" HPOS="1228" VPOS="444" WIDTH="732" HEIGHT="204" STYLEREFS="StyleId-0" CONTENT="Antichristi." WC="0.4775" CC="880550747770" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P16_TB00002" HPOS="372" VPOS="3585" WIDTH="2391" HEIGHT="748">
+          <TextLine ID="P16_TL00002" HPOS="1323" VPOS="3598" WIDTH="1228" HEIGHT="106">
+            <String ID="P16_S00002" HPOS="1323" VPOS="3598" WIDTH="498" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="Antichristus." WC="0.329166681" CC="807882888847" />
+            <SP ID="P16_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00003" HPOS="2292" VPOS="3637" WIDTH="57" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="" WC="0.1" CC="9" />
+            <SP ID="P16_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00004" HPOS="2418" VPOS="3646" WIDTH="28" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="" WC="0.55" CC="4" />
+            <SP ID="P16_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00005" HPOS="2488" VPOS="3609" WIDTH="63" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="" WC="0.1" CC="9" />
+          </TextLine>
+          <TextLine ID="P16_TL00003" HPOS="421" VPOS="3700" WIDTH="2325" HEIGHT="108">
+            <String ID="P16_S00006" HPOS="421" VPOS="3700" WIDTH="475" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="Das capittel" WC="0.3725" CC="870888088880" />
+            <SP ID="P16_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00007" HPOS="931" VPOS="3702" WIDTH="885" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="Si quis suadente un der" WC="0.3942857" CC="8888778078001058877007" />
+            <SP ID="P16_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00008" HPOS="1852" VPOS="3706" WIDTH="321" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="gleychen" WC="0.40375" CC="03888188" />
+            <SP ID="P16_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00009" HPOS="2194" VPOS="3708" WIDTH="421" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="tzeygt gnug" WC="0.156" CC="88788781088" />
+            <SP ID="P16_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00010" HPOS="2649" VPOS="3724" WIDTH="97" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="an" WC="0.56" CC="066" />
+          </TextLine>
+          <TextLine ID="P16_TL00004" HPOS="417" VPOS="3805" WIDTH="2325" HEIGHT="106">
+            <String ID="P16_S00011" HPOS="417" VPOS="3819" WIDTH="135" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="wie" WC="0.405" CC="6737" />
+            <SP ID="P16_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00012" HPOS="577" VPOS="3828" WIDTH="193" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="gerne" WC="0.1425" CC="8888" />
+            <SP ID="P16_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00013" HPOS="792" VPOS="3813" WIDTH="114" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="der" WC="1" CC="000" />
+            <SP ID="P16_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00014" HPOS="931" VPOS="3808" WIDTH="184" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="Bapst" WC="0.355" CC="8880" />
+            <SP ID="P16_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00015" HPOS="1129" VPOS="3813" WIDTH="52" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="" WC="0.225" CC="77" />
+            <SP ID="P16_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00016" HPOS="1203" VPOS="3820" WIDTH="141" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="das" WC="0.13666667" CC="888" />
+            <SP ID="P16_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00017" HPOS="1369" VPOS="3810" WIDTH="234" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="Creutz" WC="0.216666669" CC="858887" />
+            <SP ID="P16_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00018" HPOS="1623" VPOS="3820" WIDTH="112" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="der" WC="0.213333338" CC="778" />
+            <SP ID="P16_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00019" HPOS="1753" VPOS="3810" WIDTH="594" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="widerwertigkeyt" WC="0.359333336" CC="1780067788710778" />
+            <SP ID="P16_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00020" HPOS="2358" VPOS="3828" WIDTH="27" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="" WC="0.53" CC="4" />
+            <SP ID="P16_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00021" HPOS="2406" VPOS="3813" WIDTH="336" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="duldet / so" WC="0.507" CC="18000858810" />
+          </TextLine>
+          <TextLine ID="P16_TL00005" HPOS="411" VPOS="3907" WIDTH="2332" HEIGHT="106">
+            <String ID="P16_S00022" HPOS="411" VPOS="3936" WIDTH="66" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="er" WC="0.255" CC="77" />
+            <SP ID="P16_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00023" HPOS="502" VPOS="3913" WIDTH="121" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="alle" WC="0.355" CC="8808" />
+            <SP ID="P16_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00024" HPOS="642" VPOS="3925" WIDTH="102" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="die" WC="0.41" CC="7010" />
+            <SP ID="P16_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00025" HPOS="766" VPOS="3910" WIDTH="387" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="ihenen / die" WC="0.6288889" CC="811085007" />
+            <SP ID="P16_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00026" HPOS="1171" VPOS="3913" WIDTH="232" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="hand" WC="0.562" CC="310700" />
+            <SP ID="P16_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00027" HPOS="1422" VPOS="3934" WIDTH="93" HEIGHT="72" STYLEREFS="StyleId-0" CONTENT="an" WC="0.36" CC="747" />
+            <SP ID="P16_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00028" HPOS="1539" VPOS="3921" WIDTH="97" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="die" WC="0.696666658" CC="007" />
+            <SP ID="P16_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00029" HPOS="1657" VPOS="3910" WIDTH="277" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="pfaffen" WC="0.124285713" CC="88888810" />
+            <SP ID="P16_SP00025" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00030" HPOS="1954" VPOS="3937" WIDTH="91" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="an" WC="0.24" CC="77" />
+            <SP ID="P16_SP00026" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00031" HPOS="2068" VPOS="3913" WIDTH="132" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="lege" WC="0.4425" CC="0777" />
+            <SP ID="P16_SP00027" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00032" HPOS="2224" VPOS="3913" WIDTH="519" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="vormaladeyet" WC="0.4425" CC="783680800887" />
+          </TextLine>
+          <TextLine ID="P16_TL00006" HPOS="417" VPOS="4009" WIDTH="2325" HEIGHT="111">
+            <String ID="P16_S00033" HPOS="417" VPOS="4015" WIDTH="103" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="un" WC="0.23" CC="7777" />
+            <SP ID="P16_SP00028" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00034" HPOS="547" VPOS="4024" WIDTH="153" HEIGHT="69" STYLEREFS="StyleId-0" CONTENT="dern" WC="0.55" CC="0099" />
+            <SP ID="P16_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00035" HPOS="717" VPOS="4011" WIDTH="237" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="teuffel" WC="0.167142853" CC="8888788" />
+            <SP ID="P16_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00036" HPOS="972" VPOS="4018" WIDTH="154" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="gibt" WC="0.2025" CC="8887" />
+            <SP ID="P16_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00037" HPOS="1153" VPOS="4017" WIDTH="184" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="Und" WC="0.17" CC="7888" />
+            <SP ID="P16_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00038" HPOS="1365" VPOS="4015" WIDTH="162" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="alßo" WC="0.151666671" CC="8810878" />
+            <SP ID="P16_SP00033" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00039" HPOS="1549" VPOS="4020" WIDTH="183" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="ouch" WC="0.3575" CC="7881" />
+            <SP ID="P16_SP00034" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00040" HPOS="1755" VPOS="4033" WIDTH="175" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="tregt" WC="0.176" CC="868107" />
+            <SP ID="P16_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00041" HPOS="1947" VPOS="4024" WIDTH="109" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="der" WC="0.75666666" CC="007" />
+            <SP ID="P16_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00042" HPOS="2077" VPOS="4014" WIDTH="246" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="Bapst" WC="0.472" CC="100087" />
+            <SP ID="P16_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00043" HPOS="2343" VPOS="4020" WIDTH="136" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="das" WC="0.236666664" CC="777" />
+            <SP ID="P16_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00044" HPOS="2505" VPOS="4015" WIDTH="237" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="Creuz" WC="0.34" CC="80878" />
+          </TextLine>
+          <TextLine ID="P16_TL00007" HPOS="411" VPOS="4110" WIDTH="2329" HEIGHT="115">
+            <String ID="P16_S00045" HPOS="411" VPOS="4125" WIDTH="144" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="das" WC="0.41" CC="277" />
+            <SP ID="P16_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00046" HPOS="585" VPOS="4140" WIDTH="225" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="ynnen" WC="0.312" CC="65687" />
+            <SP ID="P16_SP00040" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00047" HPOS="834" VPOS="4113" WIDTH="337" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="getauffte" WC="0.151111111" CC="7888971088" />
+            <SP ID="P16_SP00041" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00048" HPOS="1194" VPOS="4117" WIDTH="316" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="Christen" WC="0.245" CC="8210788" />
+            <SP ID="P16_SP00042" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00049" HPOS="1527" VPOS="4113" WIDTH="136" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="vff" WC="0.29" CC="767" />
+            <SP ID="P16_SP00043" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00050" HPOS="1665" VPOS="4141" WIDTH="147" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="yren" WC="0.19" CC="7887" />
+            <SP ID="P16_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00051" HPOS="1833" VPOS="4119" WIDTH="331" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="achsselen" WC="0.317777783" CC="863888088" />
+            <SP ID="P16_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00052" HPOS="2184" VPOS="4135" WIDTH="243" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="tragen" WC="0.314285725" CC="60810778" />
+            <SP ID="P16_SP00046" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00053" HPOS="2452" VPOS="4117" WIDTH="288" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="mussen." WC="0.3675" CC="67447774" />
+          </TextLine>
+          <TextLine ID="P16_TL00008" HPOS="2173" VPOS="4218" WIDTH="192" HEIGHT="102">
+            <String ID="P16_S00054" HPOS="2173" VPOS="4218" WIDTH="90" HEIGHT="84" STYLEREFS="StyleId-0" CONTENT="B" WC="0.255" CC="77" />
+            <SP ID="P16_SP00047" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P16_S00055" HPOS="2295" VPOS="4227" WIDTH="70" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="iij" WC="0.24" CC="867" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

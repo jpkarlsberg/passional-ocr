@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000008.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P7" PHYSICAL_IMG_NR="7" HEIGHT="5100" WIDTH="3750" ACCURACY="0.23443602" QUALITY_DETAIL="23 words, 150 chars, 10 with recognition greater than 50% (6.67%)">
+      <TopMargin ID="P7_TM00001" HPOS="0" VPOS="0" WIDTH="3750" HEIGHT="487" />
+      <LeftMargin ID="P7_LM00001" HPOS="0" VPOS="487" WIDTH="1089" HEIGHT="3724" />
+      <RightMargin ID="P7_RM00001" HPOS="3550" VPOS="487" WIDTH="199" HEIGHT="3724" />
+      <BottomMargin ID="P7_BM00001" HPOS="0" VPOS="4212" WIDTH="3750" HEIGHT="888" />
+      <PrintSpace ID="P7_PS00001" HPOS="1089" VPOS="487" WIDTH="2461" HEIGHT="3724">
+        <TextBlock ID="P7_TB00001" HPOS="1536" VPOS="487" WIDTH="1537" HEIGHT="319">
+          <TextLine ID="P7_TL00001" HPOS="1572" VPOS="525" WIDTH="1419" HEIGHT="234">
+            <String ID="P7_S00001" HPOS="1572" VPOS="553" WIDTH="655" HEIGHT="205" STYLEREFS="StyleId-0" CONTENT="Passional" WC="0.31625" CC="107777770" />
+            <SP ID="P7_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00002" HPOS="2263" VPOS="525" WIDTH="427" HEIGHT="234" STYLEREFS="StyleId-0" CONTENT="Christi" WC="0.182857141" CC="88107778" />
+            <SP ID="P7_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00003" HPOS="2721" VPOS="537" WIDTH="270" HEIGHT="222" STYLEREFS="StyleId-0" CONTENT="und" WC="0.2625" CC="7767" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P7_TB00002" HPOS="1089" VPOS="3687" WIDTH="2461" HEIGHT="525">
+          <TextLine ID="P7_TL00002" HPOS="1147" VPOS="3799" WIDTH="2341" HEIGHT="117">
+            <String ID="P7_S00004" HPOS="1147" VPOS="3820" WIDTH="139" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="Die" WC="0.1125" CC="81088" />
+            <SP ID="P7_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00005" HPOS="1306" VPOS="3816" WIDTH="261" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="soldner" WC="0.165" CC="71087106" />
+            <SP ID="P7_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00006" HPOS="1582" VPOS="3813" WIDTH="229" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="haben" WC="0.18571429" CC="101077886" />
+            <SP ID="P7_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00007" HPOS="1827" VPOS="3811" WIDTH="388" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="geflochten" WC="0.25727272" CC="08778887888" />
+            <SP ID="P7_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00008" HPOS="2236" VPOS="3832" WIDTH="157" HEIGHT="84" STYLEREFS="StyleId-0" CONTENT="eyne" WC="0.188" CC="88868" />
+            <SP ID="P7_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00009" HPOS="2406" VPOS="3810" WIDTH="45" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="kronen" WC="0.15" CC="8" />
+            <SP ID="P7_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00010" HPOS="2451" VPOS="3822" WIDTH="382" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="von" WC="0.205833331" CC="8866878108877" />
+            <SP ID="P7_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00011" HPOS="2857" VPOS="3807" WIDTH="259" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="dörnen" WC="0.174" CC="88887" />
+            <SP ID="P7_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00012" HPOS="3132" VPOS="3822" WIDTH="31" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="/" WC="0.37" CC="6" />
+            <SP ID="P7_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00013" HPOS="3183" VPOS="3823" WIDTH="103" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="un" WC="0.21" CC="78" />
+            <SP ID="P7_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00014" HPOS="3304" VPOS="3799" WIDTH="184" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="auff" WC="0.442" CC="74709" />
+          </TextLine>
+          <TextLine ID="P7_TL00003" HPOS="1129" VPOS="3910" WIDTH="2347" HEIGHT="114">
+            <String ID="P7_S00015" HPOS="1129" VPOS="3910" WIDTH="148" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="sein" WC="0.106666669" CC="1088" />
+            <SP ID="P7_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00016" HPOS="1302" VPOS="3916" WIDTH="892" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="heubt gedruckt / darnach" WC="0.210454538" CC="88788108779866747788888" />
+            <SP ID="P7_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00017" HPOS="2215" VPOS="3933" WIDTH="375" HEIGHT="91" STYLEREFS="StyleId-0" CONTENT="mit eynem" WC="0.30875" CC="78807778" />
+            <SP ID="P7_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00018" HPOS="2616" VPOS="3931" WIDTH="261" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="purper" WC="0.271666676" CC="777777" />
+            <SP ID="P7_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00019" HPOS="2892" VPOS="3910" WIDTH="585" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="kleydt haben sie" WC="0.199230775" CC="9710731091077777" />
+          </TextLine>
+          <TextLine ID="P7_TL00004" HPOS="1138" VPOS="4017" WIDTH="1297" HEIGHT="115">
+            <String ID="P7_S00020" HPOS="1138" VPOS="4047" WIDTH="109" HEIGHT="85" STYLEREFS="StyleId-0" CONTENT="yn" WC="0.463333338" CC="644" />
+            <SP ID="P7_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00021" HPOS="1267" VPOS="4026" WIDTH="114" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="bekleydet" WC="0.213333338" CC="1066" />
+            <SP ID="P7_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00022" HPOS="1384" VPOS="4020" WIDTH="213" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="" WC="0.24" CC="108288" />
+            <SP ID="P7_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P7_S00023" HPOS="2022" VPOS="4017" WIDTH="414" HEIGHT="115" STYLEREFS="StyleId-0" CONTENT="Johan. 19." WC="0.156666666" CC="88101078687" />
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="P7_ILL00001" HPOS="1114" VPOS="814" WIDTH="2329" HEIGHT="2848" />
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

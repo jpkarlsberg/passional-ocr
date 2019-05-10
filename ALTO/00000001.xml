@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000001.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles />
+  <Layout>
+    <Page ID="P0" PHYSICAL_IMG_NR="0" HEIGHT="3750" WIDTH="5100" ACCURACY="0">
+      <TopMargin ID="P0_TM00001" HPOS="0" VPOS="0" WIDTH="5100" HEIGHT="5098" />
+      <LeftMargin ID="P0_LM00001" HPOS="0" VPOS="5098" WIDTH="0" HEIGHT="0" />
+      <RightMargin ID="P0_RM00001" HPOS="0" VPOS="5098" WIDTH="5100" HEIGHT="0" />
+      <BottomMargin ID="P0_BM00001" HPOS="0" VPOS="5098" WIDTH="5100" HEIGHT="-1348" />
+      <PrintSpace ID="P0_PS00001" HPOS="0" VPOS="5098" WIDTH="0" HEIGHT="0" />
+    </Page>
+  </Layout>
+</alto>
