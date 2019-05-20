@@ -56,7 +56,7 @@
             <SP ID="P7_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P7_S00012" HPOS="3132" VPOS="3822" WIDTH="31" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="/" WC="0.37" CC="6" />
             <SP ID="P7_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P7_S00013" HPOS="3183" VPOS="3823" WIDTH="103" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="un" WC="0.21" CC="78" />
+            <String ID="P7_S00013" HPOS="3183" VPOS="3823" WIDTH="103" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="un̄" WC="0.21" CC="78" />
             <SP ID="P7_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P7_S00014" HPOS="3304" VPOS="3799" WIDTH="184" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="auff" WC="0.442" CC="74709" />
           </TextLine>
