@@ -8,10 +8,11 @@ Complete:
 * p. 8 (`OCR` and `ALTO`) 05/20/2019
 * p. 9 (`OCR` and `ALTO`) 05/20/2019
 * p. 10 (`OCR` and `ALTO`) 07/11/2019
+* p. 11 (`OCR` and `ALTO`) 07/12/2019
+  * Block in ALTO XML for "Antichristi." at top of page appears at the bottom of the page after all other lines of text.
 
 Incomplete:
 
-* p. 11
 * p. 12
 * p. 13
 * p. 14
