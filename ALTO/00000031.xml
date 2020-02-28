@@ -36,13 +36,13 @@
             <SP ID="P30_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00003" HPOS="1146" VPOS="3471" WIDTH="253" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="Bestia" WC="0.14" CC="8888888" />
             <SP ID="P30_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00004" HPOS="1422" VPOS="3471" WIDTH="100" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="un" WC="0.14" CC="88" />
+            <String ID="P30_S00004" HPOS="1422" VPOS="3471" WIDTH="100" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="un̄" WC="0.14" CC="88" />
             <SP ID="P30_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00005" HPOS="1542" VPOS="3475" WIDTH="127" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="mit" WC="0.4" CC="575" />
             <SP ID="P30_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00006" HPOS="1689" VPOS="3492" WIDTH="79" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="yr" WC="0.09" CC="108" />
             <SP ID="P30_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00007" HPOS="1788" VPOS="3466" WIDTH="46" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="ein" WC="0.13" CC="8" />
+            <String ID="P30_S00007" HPOS="1788" VPOS="3466" WIDTH="46" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="ȣ" WC="0.13" CC="8" />
             <SP ID="P30_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00008" HPOS="1857" VPOS="3466" WIDTH="529" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="falschprophet" WC="0.193333328" CC="98668101086887787" />
             <SP ID="P30_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
@@ -75,7 +75,7 @@
             <SP ID="P30_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00022" HPOS="2433" VPOS="3591" WIDTH="45" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="" WC="0.27" CC="77" />
             <SP ID="P30_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00023" HPOS="2502" VPOS="3595" WIDTH="129" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="tzeyche" WC="0.3025" CC="5957" />
+            <String ID="P30_S00023" HPOS="2502" VPOS="3595" WIDTH="129" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="tzeychē" WC="0.3025" CC="5957" />
             <SP ID="P30_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00024" HPOS="2638" VPOS="3585" WIDTH="127" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="" WC="0.255" CC="8776" />
           </TextLine>
@@ -132,7 +132,7 @@
           <TextLine ID="P30_TL00005" HPOS="411" VPOS="3883" WIDTH="2359" HEIGHT="105">
             <String ID="P30_S00049" HPOS="412" VPOS="3901" WIDTH="121" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="schwerdt" WC="0.11" CC="8810" />
             <SP ID="P30_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00050" HPOS="541" VPOS="3904" WIDTH="232" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="werbt" WC="0.378" CC="88607" />
+            <String ID="P30_S00050" HPOS="541" VPOS="3904" WIDTH="232" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="" WC="0.378" CC="88607" />
             <SP ID="P30_SP00046" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00051" HPOS="790" VPOS="3900" WIDTH="127" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="des" WC="0.38" CC="737" />
             <SP ID="P30_SP00047" WIDTH="0" HPOS="0" VPOS="0" />
@@ -142,7 +142,7 @@
             <SP ID="P30_SP00049" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00054" HPOS="1204" VPOS="3888" WIDTH="193" HEIGHT="115" STYLEREFS="StyleId-0" CONTENT="reydt" WC="0.358" CC="781006" />
             <SP ID="P30_SP00050" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00055" HPOS="1431" VPOS="3876" WIDTH="214" HEIGHT="127" STYLEREFS="StyleId-0" CONTENT="vffim" WC="0.29" CC="84787" />
+            <String ID="P30_S00055" HPOS="1431" VPOS="3876" WIDTH="214" HEIGHT="127" STYLEREFS="StyleId-0" CONTENT="uffim" WC="0.29" CC="84787" />
             <SP ID="P30_SP00051" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00056" HPOS="1665" VPOS="3879" WIDTH="289" HEIGHT="124" STYLEREFS="StyleId-0" CONTENT="weyssen" WC="0.21875" CC="478771089" />
             <SP ID="P30_SP00052" WIDTH="0" HPOS="0" VPOS="0" />
@@ -152,7 +152,7 @@
             <SP ID="P30_SP00054" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00059" HPOS="2418" VPOS="3882" WIDTH="147" HEIGHT="121" STYLEREFS="StyleId-0" CONTENT="auß" WC="0.263333321" CC="1074" />
             <SP ID="P30_SP00055" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00060" HPOS="2581" VPOS="3894" WIDTH="189" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="seyne" WC="0.15" CC="7710710" />
+            <String ID="P30_S00060" HPOS="2581" VPOS="3894" WIDTH="189" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="seynē" WC="0.15" CC="7710710" />
           </TextLine>
           <TextLine ID="P30_TL00006" HPOS="412" VPOS="3988" WIDTH="2356" HEIGHT="99">
             <String ID="P30_S00061" HPOS="412" VPOS="4003" WIDTH="240" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="mauel" WC="0.305714279" CC="7887880" />
@@ -174,11 +174,11 @@
           <TextLine ID="P30_TL00007" HPOS="409" VPOS="4092" WIDTH="2359" HEIGHT="102">
             <String ID="P30_S00069" HPOS="409" VPOS="4102" WIDTH="802" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="schalckhafftige" WC="0.23" CC="687786848998" />
             <SP ID="P30_SP00063" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00070" HPOS="1231" VPOS="4095" WIDTH="222" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="wirdt" WC="0.362" CC="60796" />
+            <String ID="P30_S00070" HPOS="1231" VPOS="4095" WIDTH="222" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="denn wirdt" WC="0.362" CC="60796" />
             <SP ID="P30_SP00064" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00071" HPOS="1471" VPOS="4096" WIDTH="115" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="der" WC="0.526666641" CC="085" />
             <SP ID="P30_SP00065" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00072" HPOS="1605" VPOS="4089" WIDTH="148" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="herz" WC="0.2" CC="877" />
+            <String ID="P30_S00072" HPOS="1605" VPOS="4089" WIDTH="148" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="herr" WC="0.2" CC="877" />
             <SP ID="P30_SP00066" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00073" HPOS="1767" VPOS="4083" WIDTH="229" HEIGHT="126" STYLEREFS="StyleId-0" CONTENT="Jesus" WC="0.244" CC="379710" />
             <SP ID="P30_SP00067" WIDTH="0" HPOS="0" VPOS="0" />
@@ -191,11 +191,11 @@
             <String ID="P30_S00077" HPOS="2578" VPOS="4111" WIDTH="190" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="atem" WC="0.17" CC="888788" />
           </TextLine>
           <TextLine ID="P30_TL00008" HPOS="406" VPOS="4197" WIDTH="2362" HEIGHT="99">
-            <String ID="P30_S00078" HPOS="406" VPOS="4213" WIDTH="234" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="seyns" WC="0.225" CC="4810787" />
+            <String ID="P30_S00078" HPOS="406" VPOS="4213" WIDTH="234" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="ßeyns" WC="0.225" CC="4810787" />
             <SP ID="P30_SP00071" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00079" HPOS="660" VPOS="4215" WIDTH="312" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="mundts" WC="0.435" CC="55877064" />
             <SP ID="P30_SP00072" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00080" HPOS="994" VPOS="4203" WIDTH="157" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="vnd" WC="0.4375" CC="8850" />
+            <String ID="P30_S00080" HPOS="994" VPOS="4203" WIDTH="157" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="und" WC="0.4375" CC="8850" />
             <SP ID="P30_SP00073" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00081" HPOS="1182" VPOS="4197" WIDTH="222" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="wirdt" WC="0.192" CC="786107" />
             <SP ID="P30_SP00074" WIDTH="0" HPOS="0" VPOS="0" />
@@ -214,11 +214,11 @@
             <String ID="P30_S00088" HPOS="2661" VPOS="4216" WIDTH="108" HEIGHT="94" STYLEREFS="StyleId-0" CONTENT="zu" WC="0.4175" CC="7708" />
           </TextLine>
           <TextLine ID="P30_TL00009" HPOS="412" VPOS="4297" WIDTH="2143" HEIGHT="108">
-            <String ID="P30_S00089" HPOS="412" VPOS="4302" WIDTH="360" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="kunffe. 2." WC="0.237777784" CC="857778787" />
+            <String ID="P30_S00089" HPOS="412" VPOS="4302" WIDTH="360" HEIGHT="117" STYLEREFS="StyleId-0" CONTENT="kunffe. z." WC="0.237777784" CC="857778787" />
             <SP ID="P30_SP00081" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00090" HPOS="798" VPOS="4312" WIDTH="102" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="ab" WC="0.15" CC="710" />
             <SP ID="P30_SP00082" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P30_S00091" HPOS="924" VPOS="4299" WIDTH="214" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="Tessa 2." WC="0.1" CC="8810" />
+            <String ID="P30_S00091" HPOS="924" VPOS="4299" WIDTH="214" HEIGHT="120" STYLEREFS="StyleId-0" CONTENT="Tessa z." WC="0.1" CC="8810" />
             <SP ID="P30_SP00083" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P30_S00092" HPOS="2205" VPOS="4284" WIDTH="256" HEIGHT="135" STYLEREFS="StyleId-0" CONTENT="D" WC="0.17" CC="610" />
             <SP ID="P30_SP00084" WIDTH="0" HPOS="0" VPOS="0" />
