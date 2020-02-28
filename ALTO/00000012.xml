@@ -36,7 +36,7 @@
             <SP ID="P11_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00003" HPOS="1686" VPOS="3759" WIDTH="180" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="tzum" WC="0.28" CC="884" />
             <SP ID="P11_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00004" HPOS="1885" VPOS="3739" WIDTH="327" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="mehr / un" WC="0.222222224" CC="688887777" />
+            <String ID="P11_S00004" HPOS="1885" VPOS="3739" WIDTH="327" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="mehr / un̄" WC="0.222222224" CC="688887777" />
             <SP ID="P11_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00005" HPOS="2226" VPOS="3736" WIDTH="120" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="laß" WC="0.156666666" CC="888" />
             <SP ID="P11_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
@@ -69,7 +69,7 @@
             <SP ID="P11_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00019" HPOS="3150" VPOS="3831" WIDTH="241" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="wirstu" WC="0.172" CC="88788" />
             <SP ID="P11_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00020" HPOS="3409" VPOS="3828" WIDTH="199" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="finde" WC="0.15" CC="779108" />
+            <String ID="P11_S00020" HPOS="3409" VPOS="3828" WIDTH="199" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="findē" WC="0.15" CC="779108" />
             <SP ID="P11_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00021" HPOS="3625" VPOS="3886" WIDTH="31" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="" WC="0.23" CC="7" />
           </TextLine>
@@ -113,9 +113,9 @@
             <SP ID="P11_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00040" HPOS="2257" VPOS="4044" WIDTH="342" HEIGHT="99" STYLEREFS="StyleId-0" CONTENT="schwerdt" WC="0.2075" CC="769777710" />
             <SP ID="P11_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00041" HPOS="2619" VPOS="4047" WIDTH="69" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="yn" WC="0.195" CC="87" />
+            <String ID="P11_S00041" HPOS="2619" VPOS="4047" WIDTH="69" HEIGHT="96" STYLEREFS="StyleId-0" CONTENT="in" WC="0.195" CC="87" />
             <SP ID="P11_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00042" HPOS="2706" VPOS="4056" WIDTH="159" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="iren" WC="0.3575" CC="0888" />
+            <String ID="P11_S00042" HPOS="2706" VPOS="4056" WIDTH="159" HEIGHT="87" STYLEREFS="StyleId-0" CONTENT="yren" WC="0.3575" CC="0888" />
             <SP ID="P11_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00043" HPOS="2880" VPOS="4042" WIDTH="268" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="henden" WC="0.134285718" CC="1010881076" />
             <SP ID="P11_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
@@ -134,7 +134,7 @@
             <SP ID="P11_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00050" HPOS="2190" VPOS="4144" WIDTH="177" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="tzinB" WC="0.24333334" CC="877" />
             <SP ID="P11_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00051" HPOS="2385" VPOS="4141" WIDTH="483" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="zustehet / den" WC="0.278333336" CC="888558888708" />
+            <String ID="P11_S00051" HPOS="2385" VPOS="4141" WIDTH="483" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="tzustehet / den" WC="0.278333336" CC="888558888708" />
             <SP ID="P11_SP00046" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00052" HPOS="2884" VPOS="4140" WIDTH="150" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="tzoll" WC="0.4" CC="7717" />
             <SP ID="P11_SP00047" WIDTH="0" HPOS="0" VPOS="0" />
@@ -142,7 +142,7 @@
             <SP ID="P11_SP00048" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P11_S00054" HPOS="3178" VPOS="4159" WIDTH="64" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="er" WC="0.17" CC="106" />
             <SP ID="P11_SP00049" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P11_S00055" HPOS="3273" VPOS="4141" WIDTH="334" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="gebuerdt." WC="0.2525" CC="448881087" />
+            <String ID="P11_S00055" HPOS="3273" VPOS="4141" WIDTH="334" HEIGHT="106" STYLEREFS="StyleId-0" CONTENT="gebürdt." WC="0.2525" CC="448881087" />
           </TextLine>
           <TextLine ID="P11_TL00007" HPOS="1290" VPOS="4245" WIDTH="333" HEIGHT="109">
             <String ID="P11_S00056" HPOS="1290" VPOS="4245" WIDTH="331" HEIGHT="111" STYLEREFS="StyleId-0" CONTENT="Paul. ad Roma. 13." WC="0.296" CC="888100" />
