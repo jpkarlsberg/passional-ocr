@@ -17,10 +17,10 @@ Complete:
 * p. 14 (`OCR` and `ALTO`) 02/28/2020
   * Block in `ALTO XML` for "Passional Christi und." at top of page appears at bottom.
 * p. 15 (`OCR` and `ALTO`) 02/28/2020
+* p. 16 (`OCR` and `ALTO`) 02/28/2020
 
 Incomplete:
 
-* p. 16
 * p. 17
 * p. 18
 * p. 19
