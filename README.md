@@ -20,7 +20,6 @@ Complete:
 
 Incomplete:
 
-* p. 15
 * p. 16
 * p. 17
 * p. 18
