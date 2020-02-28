@@ -9,13 +9,14 @@ Complete:
 * p. 9 (`OCR` and `ALTO`) 05/20/2019
 * p. 10 (`OCR` and `ALTO`) 07/11/2019
 * p. 11 (`OCR` and `ALTO`) 07/12/2019
-  * Block in `ALTO XML` for "Antichristi." at top of page appears at bottom of the page after other lines of text.
+  * Block in `ALTO XML` for "Antichristi." at top of page appears at bottom.
 * p. 12 (`OCR` and `ALTO`) 02/28/2020
-  * Block in `ALTO XML` for "Passional Christi und." at top of page appears at bottom of the page after other lines of text.
+  * Block in `ALTO XML` for "Passional Christi und." at top of page appears at bottom.
+* p. 13 (`OCR` and `ALTO`) 02/28/2020
+  * Block in `ALTO XML` for "Antichristi." at top of page appears at bottom.
 
 Incomplete:
 
-* p. 13
 * p. 14
 * p. 15
 * p. 16
