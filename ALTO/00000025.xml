@@ -44,20 +44,20 @@
             <SP ID="P24_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P24_S00006" HPOS="1890" VPOS="3660" WIDTH="387" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="und kleyne" WC="0.23888889" CC="767777797" />
             <SP ID="P24_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P24_S00007" HPOS="2293" VPOS="3660" WIDTH="186" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="stade" WC="0.225" CC="679777" />
+            <String ID="P24_S00007" HPOS="2293" VPOS="3660" WIDTH="186" HEIGHT="112" STYLEREFS="StyleId-0" CONTENT="stadt" WC="0.225" CC="679777" />
             <SP ID="P24_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P24_S00008" HPOS="2502" VPOS="3672" WIDTH="306" HEIGHT="100" STYLEREFS="StyleId-0" CONTENT="geweyet" WC="0.16" CC="8877108" />
           </TextLine>
           <TextLine ID="P24_TL00003" HPOS="471" VPOS="3768" WIDTH="1986" HEIGHT="109">
             <String ID="P24_S00009" HPOS="471" VPOS="3787" WIDTH="630" HEIGHT="90" STYLEREFS="StyleId-0" CONTENT="werden / sondern" WC="0.214" CC="498887778888867" />
             <SP ID="P24_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P24_S00010" HPOS="1132" VPOS="3798" WIDTH="103" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="zu" WC="0.38" CC="7808" />
+            <String ID="P24_S00010" HPOS="1132" VPOS="3798" WIDTH="103" HEIGHT="79" STYLEREFS="StyleId-0" CONTENT="tzu" WC="0.38" CC="7808" />
             <SP ID="P24_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P24_S00011" HPOS="1255" VPOS="3774" WIDTH="538" HEIGHT="103" STYLEREFS="StyleId-0" CONTENT="eynem erlichen" WC="0.194615379" CC="8888887777788" />
             <SP ID="P24_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P24_S00012" HPOS="1821" VPOS="3768" WIDTH="205" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="Titell" WC="0.46" CC="808100" />
             <SP ID="P24_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P24_S00013" HPOS="2041" VPOS="3768" WIDTH="246" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="gesazt" WC="0.13" CC="8810888" />
+            <String ID="P24_S00013" HPOS="2041" VPOS="3768" WIDTH="246" HEIGHT="109" STYLEREFS="StyleId-0" CONTENT="gesatzt" WC="0.13" CC="8810888" />
             <SP ID="P24_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P24_S00014" HPOS="2308" VPOS="3772" WIDTH="148" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="vnd hoch ge=" WC="0.244" CC="77787" />
           </TextLine>
