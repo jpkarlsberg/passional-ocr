@@ -55,7 +55,7 @@
             <SP ID="P25_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P25_S00011" HPOS="3001" VPOS="3738" WIDTH="108" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="hie" WC="0.266666681" CC="777" />
             <SP ID="P25_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P25_S00012" HPOS="3126" VPOS="3754" WIDTH="28" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="/i" WC="1" CC="0" />
+            <String ID="P25_S00012" HPOS="3126" VPOS="3754" WIDTH="28" HEIGHT="97" STYLEREFS="StyleId-0" CONTENT="/" WC="1" CC="0" />
             <SP ID="P25_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P25_S00013" HPOS="3172" VPOS="3738" WIDTH="175" HEIGHT="114" STYLEREFS="StyleId-0" CONTENT="aber" WC="0.16" CC="8887" />
             <SP ID="P25_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
@@ -101,11 +101,11 @@
             <SP ID="P25_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P25_S00033" HPOS="2386" VPOS="3970" WIDTH="175" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="gots" WC="0.3625" CC="0888" />
             <SP ID="P25_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P25_S00034" HPOS="2592" VPOS="3951" WIDTH="406" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="vbirtretten" WC="0.222222224" CC="888478888" />
+            <String ID="P25_S00034" HPOS="2592" VPOS="3951" WIDTH="406" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="ubirtretten" WC="0.222222224" CC="888478888" />
             <SP ID="P25_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P25_S00035" HPOS="3021" VPOS="3951" WIDTH="103" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="von" WC="0.18" CC="878" />
+            <String ID="P25_S00035" HPOS="3021" VPOS="3951" WIDTH="103" HEIGHT="102" STYLEREFS="StyleId-0" CONTENT="vō" WC="0.18" CC="878" />
             <SP ID="P25_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P25_S00036" HPOS="3141" VPOS="3948" WIDTH="321" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="menschen" WC="0.38" CC="68177210" />
+            <String ID="P25_S00036" HPOS="3141" VPOS="3948" WIDTH="321" HEIGHT="105" STYLEREFS="StyleId-0" CONTENT="menschē" WC="0.38" CC="68177210" />
           </TextLine>
           <TextLine ID="P25_TL00005" HPOS="1149" VPOS="4053" WIDTH="2317" HEIGHT="96">
             <String ID="P25_S00037" HPOS="1149" VPOS="4062" WIDTH="195" HEIGHT="93" STYLEREFS="StyleId-0" CONTENT="gesetz" WC="0.345" CC="787717" />
@@ -135,7 +135,7 @@
             <SP ID="P25_SP00043" WIDTH="0" HPOS="0" VPOS="0" />
             <String ID="P25_S00049" HPOS="2103" VPOS="4171" WIDTH="109" HEIGHT="88" STYLEREFS="StyleId-0" CONTENT="15." WC="0.12" CC="107" />
             <SP ID="P25_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
-            <String ID="P25_S00050" HPOS="2217" VPOS="4152" WIDTH="390" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="Esaie. 21." WC="0.197" CC="71078867887" />
+            <String ID="P25_S00050" HPOS="2217" VPOS="4152" WIDTH="390" HEIGHT="108" STYLEREFS="StyleId-0" CONTENT="Esaie. z1." WC="0.197" CC="71078867887" />
           </TextLine>
         </TextBlock>
         <TextBlock ID="P25_TB00003" HPOS="2286" VPOS="2356" WIDTH="61" HEIGHT="330" />
