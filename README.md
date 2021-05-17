@@ -19,11 +19,11 @@ Complete:
 * p. 15 (`OCR` and `ALTO`) 02/28/2020
 * p. 16 (`OCR` and `ALTO`) 02/28/2020
 * p. 17 (`OCR` and `ALTO`) 03/05/2020
-*  p. 18 (`OCR` and `ALTO`) 05/17/2021
+* p. 18 (`OCR` and `ALTO`) 05/17/2021
+* p. 19 (`OCR` and `ALTO`) 05/17/2021
 
 Incomplete:
 
-* p. 19
 * p. 20
 * p. 21
 * p. 22
