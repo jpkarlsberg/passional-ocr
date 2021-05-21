@@ -21,7 +21,7 @@ Complete:
 * p. 17 (`OCR` and `ALTO`) 03/05/2020
 * p. 18 (`OCR` and `ALTO`) 05/17/2021
 * p. 19 (`OCR` and `ALTO`) 05/17/2021
-
+* p. 21 (`OCR` and `ALTO`) 05/21/2021
 Incomplete:
 
 * p. 20
