@@ -21,12 +21,12 @@ Complete:
 * p. 17 (`OCR` and `ALTO`) 03/05/2020
 * p. 18 (`OCR` and `ALTO`) 05/17/2021
 * p. 19 (`OCR` and `ALTO`) 05/17/2021
+* p. 20 (`OCR` and `ALTO`) 05/17/2021
 * p. 21 (`OCR` and `ALTO`) 05/21/2021
 * p. 22 (`OCR` and `ALTO`) 05/21/2021
   * Block in `ALTO XML` for "Passional Christi und." at top of page appears at bottom.
 Incomplete:
 
-* p. 20
 * p. 23
 * p. 24
 * p. 25
